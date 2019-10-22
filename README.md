@@ -1,2 +1,3 @@
 # hello-world
-Hello world repository
+
+Hello, my name is Shamsul. I am trying to familiarize with with the world of Git!
